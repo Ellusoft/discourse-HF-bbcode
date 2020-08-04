@@ -13,3 +13,4 @@ Installation
 License
 =======
 MIT
+# discourse-HF-bbcode
