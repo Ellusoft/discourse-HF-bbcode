@@ -1,4 +1,4 @@
-# name: pirate-speak
-# about: A simple mock-up plugin for text conversion.
-# version: 0.3
-# authors: Régis Hanol
+# name: discourse-HF-bbcode
+# about: Converting bbcodes.
+# version: 0.1
+# authors: David de M.K.
